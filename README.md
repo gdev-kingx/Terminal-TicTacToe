@@ -19,8 +19,8 @@ How to run:
 
 Game Instructions:
 
-. Players take turns entering numbers 1-9 corresponding to board positions
-. First player is X, second player is O
-. Game checks for wins and draws
-. Option to play again after game ends
-. Enjoy playing Tic-Tac-Toe in your terminal!
+- Players take turns entering numbers 1-9 corresponding to board positions
+- First player is X, second player is O
+- Game checks for wins and draws
+- Option to play again after game ends
+- Enjoy playing Tic-Tac-Toe in your terminal!
