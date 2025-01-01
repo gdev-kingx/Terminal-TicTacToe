@@ -13,7 +13,7 @@ This Tic-Tac-Toe script includes the following features:
 
 How to run:
 
-- Save the script with a `.sh` extension `(e.g., tictactoe.sh)`
+- Save the script with a `.sh` extension (e.g., `tictactoe.sh`)
 - Make it executable: `chmod +x tictactoe.sh`
 - Run the game: `./tictactoe.sh`
 
